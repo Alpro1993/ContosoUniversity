@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/aeop/Projects/ContosoUniversity/ContosoUniversity
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
