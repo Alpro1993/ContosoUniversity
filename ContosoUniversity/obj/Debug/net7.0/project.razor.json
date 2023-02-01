@@ -16580,6 +16580,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Edit.cshtml",
+      "TargetPath": "Pages\\Departments\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Instructors/Details.cshtml",
       "TargetPath": "Pages\\Instructors\\Details.cshtml",
       "FileKind": "mvc"
@@ -16610,8 +16615,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Index.cshtml",
+      "TargetPath": "Pages\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Details.cshtml",
+      "TargetPath": "Pages\\Departments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Create.cshtml",
+      "TargetPath": "Pages\\Departments\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16657,6 +16677,11 @@
     {
       "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Instructors/Edit.cshtml",
       "TargetPath": "Pages\\Instructors\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/aeop/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Delete.cshtml",
+      "TargetPath": "Pages\\Departments\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {

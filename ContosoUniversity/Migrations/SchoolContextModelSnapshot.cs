@@ -48,6 +48,9 @@ namespace ContosoUniversity.Migrations
                     b.Property<decimal>("Budget")
                         .HasColumnType("money");
 
+                    b.Property<Guid>("ConcurrencyToken")
+                        .HasColumnType("TEXT");
+
                     b.Property<int?>("InstructorID")
                         .HasColumnType("INTEGER");
 
